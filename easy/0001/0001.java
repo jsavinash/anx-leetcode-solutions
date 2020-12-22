@@ -14,7 +14,7 @@ class TwoSum {
     }
 }
 
-class Solution {
+class Solution0001 {
     public static void main(String args[]) {
         TwoSum twoSumObject = new TwoSum();
         int[] input = { 1, 3, 4, 5 };
