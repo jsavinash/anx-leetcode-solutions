@@ -72,6 +72,8 @@ Find indices of 2 number in array, such a way that it's total is equal to target
 
 ### Procedure :: 3 :: Implementation
 
+#### Language :: JAVA
+
 ```
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
@@ -101,6 +103,8 @@ class Solution {
 }
 
 ```
+
+#### Language :: Javascript
 
 ```
 const sumTwo = (nums, target) => {
